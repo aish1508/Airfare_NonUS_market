@@ -1,0 +1,24 @@
+For over 20 years, QL2 has focused on helping companies better understand their competitive
+landscape through gathering and analyzing web information. The information that QL2 provides,
+helps our customers better understand their competitive position and adjust their pricing
+strategy and product offerings in real time. QL2’s customers span across the travel industry
+including Airfare, Hotel, Vacation Packages, Online Travel Agencies, Cruise, Rail, Bus, and
+Ferry as well as across many retail industries.
+This project will focus on QL2’s airfare and car rental data which are incredibly dynamic and
+competitive pricing environments which require industry players to have rapid and
+comprehensive views of the marketplace. Most of QL2’s airfare and car rental customers are
+monitoring prices on a daily, or even several times a day basis. The typical customer is directly
+ingesting competitive data provided by QL2 to automatically change prices or highlight gaps in
+their itinerary or inventory offerings. Most of the teams we work with in these industries are in
+revenue management whose objectives are to maximize the revenue of all flights/rentals. It
+requires a balance between maximizing the current price offered while also not selling out fares
+or cars to far in advance and thus losing the opportunity to sell generally very high value fares
+close to departure/pick up.
+As a result many of these teams do not have the bandwidth for as many detailed and
+longitudinal analysis of the data in order to impact longer term pricing and inventory decisions.
+Additionally working with the scale and complexity of this pricing data is a challenge for many
+customers to effectively identify actionable insights.
+In both airfare and car rental the inventory are mobile assets that can be moved around to
+different locations in order to optimize revenue, but those movements require advanced
+planning. The project will focus on individual markets in order to identify market level trends and
+markets where trends differ from broader trends.
